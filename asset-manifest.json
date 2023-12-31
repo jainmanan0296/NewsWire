@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsWire/static/css/main.f855e6bc.css",
+    "main.js": "/NewsWire/static/js/main.c3f855dc.js",
+    "static/js/787.6643f1c0.chunk.js": "/NewsWire/static/js/787.6643f1c0.chunk.js",
+    "static/media/74H8.gif": "/NewsWire/static/media/74H8.c861d1c3756b301a646d.gif",
+    "index.html": "/NewsWire/index.html",
+    "main.f855e6bc.css.map": "/NewsWire/static/css/main.f855e6bc.css.map",
+    "main.c3f855dc.js.map": "/NewsWire/static/js/main.c3f855dc.js.map",
+    "787.6643f1c0.chunk.js.map": "/NewsWire/static/js/787.6643f1c0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c3f855dc.js"
+  ]
+}
