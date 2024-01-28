@@ -4,6 +4,7 @@ import Navbar from './components/Navbar';
 import News from './components/News';
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
 import LoadingBar from 'react-top-loading-bar';
+require('dotenv').config()
 
 const App =() =>{
   const pageSize = 8;
